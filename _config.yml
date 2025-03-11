@@ -1,0 +1,14 @@
+title: "AI Stories"
+description: "This dataset of AI-generated stories made by Neiruha"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+collections:
+  stories:
+    output: true
+    permalink: /stories/:name/
+
