@@ -1,6 +1,6 @@
 ---
 title: "Whirlpool"
-layout: post
+layout: story
 permalink: /stories/qwen32-whirlpool/
 ---
 
