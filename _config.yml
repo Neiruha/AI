@@ -1,7 +1,6 @@
 title: "AI Stories"
 description: "This dataset of AI-generated stories made by Neiruha"
 
-# Меняем тему на стандартную, которая поддерживается
 theme: "jekyll-theme-cayman"
 
 plugins:
@@ -13,3 +12,10 @@ collections:
   stories:
     output: true
     permalink: /stories/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "stories"
+    values:
+      layout: "story"
