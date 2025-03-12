@@ -3,6 +3,13 @@ title: "Whirlpool"
 layout: story
 ---
 
+
+---
+title: "Whirlpool"
+layout: post
+permalink: /stories/qwen32-whirlpool/
+---
+
 ###Вихрь в космосе
 
 #Сцена 1: Бой в космосе
