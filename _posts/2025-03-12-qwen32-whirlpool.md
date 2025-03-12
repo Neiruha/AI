@@ -2,6 +2,7 @@
 title: "Whirlpool"
 layout: default
 permalink: /stories/qwen32-whirlpool/
+markdown: kramdown
 ---
 
 #Вихрь в космосе
