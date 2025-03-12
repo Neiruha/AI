@@ -1,7 +1,7 @@
 title: "AI Stories"
 description: "This dataset of AI-generated stories made by Neiruha"
 
-# GitHub Pages требует тему, даже если используется remote_theme
+# GitHub Pages С‚СЂРµР±СѓРµС‚ С‚РµРјСѓ, РґР°Р¶Рµ РµСЃР»Рё РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ remote_theme
 theme: "jekyll-theme-primer"
 
 remote_theme: "mmistakes/minimal-mistakes"
