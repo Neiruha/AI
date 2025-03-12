@@ -19,8 +19,3 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-  - scope:
-      path: "stories"
-      type: "pages"
-    values:
-      layout: "post"
