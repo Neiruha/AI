@@ -1,6 +1,7 @@
 title: "AI Stories"
 description: "This dataset of AI-generated stories made by Neiruha"
 
+# Тема для всех страниц
 theme: "jekyll-theme-cayman"
 
 plugins:
@@ -13,9 +14,21 @@ collections:
     output: true
     permalink: /stories/:name/
 
+# Настройки по умолчанию для постов и коллекций
 defaults:
   - scope:
       path: "_posts"
       type: "posts"
     values:
       layout: "post"
+      theme: "jekyll-theme-cayman"
+
+  - scope:
+      path: "stories"
+      type: "pages"
+    values:
+      layout: "post"
+      theme: "jekyll-theme-cayman"
+
+# Базовый URL для корректных ссылок
+baseurl: "/AI"
