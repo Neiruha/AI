@@ -9,6 +9,4 @@ title: NEIRUHA ~ AI Статьи и материалы
 
 ## Cтатьи и материалы:
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-{% endfor %}
+https://github.com/Neiruha/AI/blob/main/AI%20business%20efficiency.pdf
