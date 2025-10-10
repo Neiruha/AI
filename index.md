@@ -5,4 +5,4 @@
 
 ## Cтатьи и материалы:
 
-https://github.com/Neiruha/AI/blob/main/AI%20business%20efficiency.pdf
+["AI и эффективность бизнеса в 2025](https://github.com/Neiruha/AI/blob/main/Deepresearch/AIBusinessEfficiencyIn2025.pdf)
