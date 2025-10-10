@@ -1,7 +1,3 @@
----
-layout: default
-title: NEIRUHA ~ AI Статьи и материалы
----
 
 # Добро пожаловать
 
