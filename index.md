@@ -1,8 +1,8 @@
 
-# Добро пожаловать
+# Welcome
 
-Вы найдете здесь некоторые статьи и материалы от Neiruha
+Here is some
 
-## Cтатьи и материалы:
+## Papers and research materials from Neiruha:
 
 [AI и эффективность бизнеса в 2025](https://github.com/Neiruha/AI/blob/main/Deepresearch/AIBusinessEfficiencyIn2025.pdf)
